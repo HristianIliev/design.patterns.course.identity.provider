@@ -9,3 +9,4 @@
 
 * IntelliJ Community Edition https://www.jetbrains.com/idea/download/#section=windows
 * MySQL Workbench https://downloads.mysql.com/archives/workbench/
+
